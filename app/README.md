@@ -1,4 +1,4 @@
-# YuLife Demo Application
+# Demo Application
 
 ## Available Scripts
 

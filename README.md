@@ -1,4 +1,4 @@
-# YuLife DevOps Technical Task
+# DevOps Technical Task
 
 
 ## Scenario
@@ -37,4 +37,4 @@ your `/etc/hosts` file.
 ## Completing the Task
 
 You should spend no more than a couple of hours task. To submit your solution, create a private GitHub respository and 
-grant access to the user `yulifelimited`. We will then arrange a time for the review session.
+grant access to the user `xxx`. We will then arrange a time for the review session.
